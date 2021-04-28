@@ -2,7 +2,6 @@
 
 export default function repetirTexto(cadena,idx){
     for(let i = 0; i < idx; i++){
-
         console.log(`${cadena}\n  `);
         console.log("\t");
     }
