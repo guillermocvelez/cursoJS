@@ -54,4 +54,9 @@ console.log(guillermo.hasOwnProperty("nombre"));//devuelve true
 console.log(guillermo.hasOwnProperty("nacimiento"));//devuelve false
 
 
+guillermo.gordo = true;
+console.log(guillermo);
+console.log(Object.keys(guillermo));
+console.log(Object.values(guillermo));
+
 
