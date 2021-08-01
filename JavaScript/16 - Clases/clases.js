@@ -82,3 +82,6 @@ const b = new Perro("Isis","Hembra","Gorda");
 console.log(b)
 b.sonar();
 b.ladrar();
+
+
+//Clases Fernado Herrera

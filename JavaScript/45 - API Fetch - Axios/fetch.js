@@ -23,7 +23,7 @@
         console.log("Error");
     })
     .finally(()=> {
-        /* console.log("Esto se ejecuta si o si"); */
+        
     });
     
     
